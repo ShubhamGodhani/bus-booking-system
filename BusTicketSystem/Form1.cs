@@ -32,7 +32,7 @@ namespace BusTicketSystem
         private void Form1_Load(object sender, EventArgs e)
         {
             speech.Speak("Welcome to the portal");
-            comboBox1.Items.Add("Ahmedabad");
+            comboBox1.Items.Add("Ahmedabad.");
             comboBox1.Items.Add("Surat");
             comboBox1.Items.Add("Vadodara");
             comboBox1.Items.Add("Jamnagar");
